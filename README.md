@@ -15,4 +15,4 @@ prefix-s in tmux
 
 ## Screenshots
 
-<img src="https://github.com/mainliufeng/dotfiles/blob/master/smux.gif" width=800/>
+<img src="https://github.com/mainliufeng/smux/blob/master/smux.gif" width=800/>
