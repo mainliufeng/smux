@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        smux=smux.scripts.cmd_smux:smux
-    

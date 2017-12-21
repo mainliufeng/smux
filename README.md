@@ -1,11 +1,18 @@
-# Tmux Quick Switch
+# smux
 
-Switch between tmux windows
+## Install 
 
-## install
-`$ pip install .`
+```sh
+git clone git@github.com:mainliufeng/smux.git;
+cp ./smux/smux /usr/local/bin/;
+sh ./smux/smux_plugin.tmux;
+```
 
-## usage
-`$ smux`
+## Usage 
 
-<img src="https://github.com/mainliufeng/smux/blob/master/smux.gif?raw=true" />
+prefix-s in tmux
+
+
+## Screenshots
+
+<img src="https://github.com/mainliufeng/dotfiles/blob/master/smux.gif" width=800/>
