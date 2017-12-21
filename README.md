@@ -1,4 +1,4 @@
-# smux
+# smux (switch between tmux sessions and windows with keywords)
 
 ## Install 
 
